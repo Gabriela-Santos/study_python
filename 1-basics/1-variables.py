@@ -1,3 +1,9 @@
+'''
+objetivo
+- criar variáveis 
+- usar a função print
+'''
+
 # text - variável de texto
 name = 'Gabriela' 
 
